@@ -1,0 +1,5 @@
+io\bootcamp\cliente\controller\ClienteController.class
+io\bootcamp\cliente\service\ClienteService.class
+io\bootcamp\cliente\model\Cliente.class
+io\bootcamp\cliente\ClienteApiApplication.class
+io\bootcamp\cliente\repository\ClienteRepository.class
